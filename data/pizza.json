@@ -2,80 +2,87 @@
     "menu": [
         {
             "category": "pizza",
-            "name": "California Pizza",
-            "desc": "California pizza, or gourmet pizza, is known for its unusual ingredients.Chef Ed LaDou created a pizza with mustard, ricotta, pate, and red pepper.",
+            "name": "Cheesy Meatball Blast",
+            "desc": "Toppings: BBQ Sauce, Liquid Cheese Sauce, Onion, Meatball, Parsley, Champignon Mushroom, Mozzarella Cheese.",
             "price": 70000,
-            "img": "cali.jpg"
+            "img": "meatball.png"
         },
         {
             "category": "pizza",
-            "name": "Greek Pizza",
-            "desc": "Greek pizza was created by Greek immigrants who came to America and were introduced to Italian pizza. Greek-style pizza, especially popular in the New England states, features a thick and chewy crust cooked in shallow, oiled pans, resulting in a nearly deep-fried bottom.",
-            "price": 60000,
-            "img": "greek.jpg"
-        },
-        {
-            "category": "pizza",
-            "name": "New-York Style Pizza",
-            "desc": "With its characteristic large, foldable slices and crispy outer crust, New York-style pizza is one of America’s most famous regional pizza types. Originally a variation of Neapolitan-style pizza, the New York slice has taken on a fame all its own, with some saying its unique flavor has to do with the minerals present in New York’s tap water supply.",
-            "price": 50000,
-            "img": "ny.jpg"
-        },
-        {
-            "category": "pizza",
-            "name": "Neapolitan Pizza",
-            "desc": "Neapolitan is the original pizza. This delicious pie dates all the way back to 18th century in Naples, Italy. During this time, the poorer citizens of this seaside city frequently purchased food that was cheap and could be eaten quickly.",
-            "price": 45000,
-            "img": "neo.jpg"
-        },
-        {
-            "category": "pizza",
-            "name": "Detroit Pizza",
-            "desc": "Reflecting the city’s deep ties to the auto industry, Detroit-style pizza was originally baked in a square automotive parts pan in the 1940’s. Detroit pizza is first topped with pepperoni, followed by brick cheese which is spread to the very edges of the pan, yielding a caramelized cheese perimeter. Sauce is then spooned over the pizza, an order similar to Chicago-style pizza. This pizza features a thick, extra crispy crust that is tender and airy on the inside.",
-            "price": 65000,
-            "img": "detroit.jpg"
-        },
-        {
-            "category": "pizza",
-            "name": "St. Louis Pizza",
-            "desc": "Looking for a light slice? St. Louis pizza features a thin crust with a cracker-like consistency that is made without yeast. Due to the crispy crust, St. Louis pizza is usually cut into three- or four-inch rectangles, known as party or tavern cut. This pizza features Provel processed cheese, which is a gooey combination of cheddar, Swiss, and provolone cheeses.",
+            "name": "Chicken Lovers",
+            "desc": "Toppings: Tomato Sauce, Chicken Rasher, parsley, Chicken Pepperoni, Marinated Chicken, Cheesy Bites, Mozzarella Cheese.",
             "price": 75000,
-            "img": "louise.jpg"
+            "img": "chicken.png"
+        },
+        {
+            "category": "pizza",
+            "name": "Fiery American Classic Cheeseburger",
+            "desc": "Toppings: Sriracha Sauce, Tomato Sauce, Beef Rasher, Beef Pepperoni, Beef Sausage, Chicken Pepper, Beef Crumble, Mozzarella Cheese",
+            "price": 70000,
+            "img": "fiery.png"
+        },
+        {
+            "category": "pizza",
+            "name": "American All Star",
+            "desc": "Toppings: Tomato Sauce, Mustard Sauce, Jalapeno, Beef Rasher, Beef Crumble, Beef Pepperoni, Onion, Slice Cheese, Mozzarella Cheese.",
+            "price": 65000,
+            "img": "american.png"
+        },
+        {
+            "category": "pizza",
+            "name": "Grilled Beef Supreme",
+            "desc": "BBQ Sauce, Cheese Sauce, Onion, Beef Burger, Jalapeno, Mozzarella Cheese.",
+            "price": 65000,
+            "img": "grill.png"
+        },
+        {
+            "category": "pizza",
+            "name": "Tuna Delight",
+            "desc": "Toppings: Hot Spicy Tuna, Mayonnaise, Onion, Red Pepper, Parsley, Mozzarella Cheese.",
+            "price": 60000,
+            "img": "tuna.png"
+        },
+        {
+            "category": "side dish",
+            "name": "BBQ Meatball Potato Bake",
+            "desc": "Meatball and potato bake with BBQ sauce.",
+            "price": 35000,
+            "img": "1.png"
+        }, 
+        {
+            "category": "side dish",
+            "name": "American Mac'N Cheese",
+            "desc": "American cheese, elbow macaroni, and sharp cheddar.",
+            "price": 30000,
+            "img": "2.png"
+        },
+        {
+            "category": "side dish",
+            "name": "Chicken Creamy Spaghetti",
+            "desc": "Chicken spaghetti with home-made creamy sauce.",
+            "price": 30000,
+            "img": "3.png"
         },
         {
             "category": "beverages",
-            "name": "Vanilla Cream Frappucino",
-            "desc": "This rich and creamy blend of vanilla bean, milk and ice topped with whipped cream takes va-va-vanilla flavor to another level. To change things up, try it Affogato-style by adding an Affogato-style shot: a hot espresso shot poured right over the top.",
+            "name": "Green Tea Latte",
+            "desc": "Smooth and creamy matcha is lightly sweetened and served with steamed milk.",
+            "price": 20000,
+            "img": "greentea.jpg"
+        }, 
+        {
+            "category": "beverages",
+            "name": "Vanilla Sweet Cream Cold Brew",
+            "desc": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
             "price": 25000,
             "img": "vanilla.jpg"
         }, 
         {
             "category": "beverages",
-            "name": "Green Tea Cream Frappucino",
-            "desc": "We blend sweetened premium matcha green tea, milk and ice and top it with sweetened whipped cream to give you a delicious boost of energy.",
+            "name": "Signature Chocolate",
+            "desc": "Chocolate and dairy milk, steamed together to create a hot chocolate fit for a chocaholic! Topped with whipped cream and dusted with cocoa.",
             "price": 30000,
-            "img": "green.jpg"
-        }, 
-        {
-            "category": "beverages",
-            "name": "Caramel Cream Frappuccino",
-            "desc": "Milk blended with caramel sauce and ice then topped with whipped cream and caramel drizzle.",
-            "price": 35000,
-            "img": "car.jpg"
-        }, 
-        {
-            "category": "pasta",
-            "name": "Beef Stroganoff",
-            "desc": "Make a classic beef stroganoff with steak and mushrooms for a tasty midweek meal. Garnish with parsley and serve with pappardelle pasta or rice.",
-            "price": 45000,
-            "img": "beef.jpg"
-        }, 
-        {
-            "category": "pasta",
-            "name": "Fettucine Alfredo",
-            "desc": "Hankering for a comforting bowl of pasta in creamy sauce? This sumptuous Italian dish is for you. It takes just 25 minutes so it's an easy midweek meal.",
-            "price": 50000,
-            "img": "fett.jpg"
+            "img": "choc.jpg"
         }
     ]
 }
