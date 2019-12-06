@@ -24,7 +24,7 @@ $menu = $menu["menu"];
             <div class="container">
 
             <a class="navbar-brand" href="#">
-              <img src="img/logo.png.gif" width="100">
+              <img src="img/pizza.png.gif" width="100">
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,7 +33,7 @@ $menu = $menu["menu"];
 
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="#">Home</a>
+            <a class="nav-item nav-link active" href="#">All Menu</a>
                   </div>
                 </div>
             </div>
